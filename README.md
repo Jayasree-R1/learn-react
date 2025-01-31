@@ -12,3 +12,8 @@ JavaScript:
 - We add an event listener to the "Remove" button to remove the task when clicked.
 - This is a simple example of how you can use plain JavaScript to create a functional application without any frameworks like React.
 
+Results:
+
+![unnamed (1)](https://github.com/user-attachments/assets/25dae16a-209a-4fa3-a660-018ad3478cbe)
+
+![unnamed](https://github.com/user-attachments/assets/7d581004-295d-42af-90e5-187cdd5d7b71)
